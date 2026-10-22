@@ -2,7 +2,7 @@ A repository of source files for Boolean Statistical Mechanics, an independently
 
 Download the most recent version for free here: [`Boolean Statistical Mechanics v105.pdf`](Boolean%20Statistical%20Mechanics%20v105.pdf)
 
-![The cover](BSM eCover.png)
+![The cover](BSM%eCover.png)
 
 A paperback and hardcover version of this text is available for print-on-demand from Amazon via Kindle Direct Publishing.
 
