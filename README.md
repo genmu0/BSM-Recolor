@@ -1,6 +1,4 @@
-A repository of source files for Boolean Statistical Mechanics, an independently produced mathematics monograph.
-
-Download the most recent version for free here: [`Boolean Statistical Mechanics v105.pdf`](Boolean%20Statistical%20Mechanics%20v105.pdf)
+A repository of source files for Boolean Statistical Mechanics, an independently produced mathematics monograph. Compile for free TeXworks using the XeLaTeX+MakeIndex+BibTeX option.
 
 ![BSM eCover.png](https://github.com/genmu0/BSM-Recolor/blob/main/BSM%20eCover.png)
 
